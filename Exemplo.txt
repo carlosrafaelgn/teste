@@ -1,5 +1,7 @@
 Teste de commit
 
+Linha criada remotamente!
+
 Linha nova!
 
 Mais Teste com alterações...
